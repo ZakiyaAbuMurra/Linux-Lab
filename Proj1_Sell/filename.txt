@@ -1,0 +1,6 @@
+first name, last name, phone numbers, email
+ibrahem,0,0599111111,uuu@rrrr
+qutayba,olayan,0592123123,jksdfksdf@
+ibr, 0, 042468701, 0
+qut,0,123123123,swat@r.com
+moh,deek,0599769943,moh@gmail.com
